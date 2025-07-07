@@ -1,0 +1,17 @@
+package com.tnsif.DayThree.JumpStmt;
+
+public class ContinueStmt {
+
+	public static void main(String[] args) {
+		
+		for(int i=0;i<100;i++)
+		{
+			if(i%2==0)
+				continue;
+			//It prints O
+				System.out.println(i);
+		}
+
+	}
+
+}
