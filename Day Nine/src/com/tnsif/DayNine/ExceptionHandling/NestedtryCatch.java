@@ -1,4 +1,4 @@
-package com.tnsif.DayNin.ExceptionHandling;
+package com.tnsif.DayNine.ExceptionHandling;
 
 public class NestedtryCatch {
 	
