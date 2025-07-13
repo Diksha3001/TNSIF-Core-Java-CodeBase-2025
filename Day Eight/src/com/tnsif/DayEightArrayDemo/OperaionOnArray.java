@@ -103,20 +103,7 @@ public class OperaionOnArray {
 		        break;
 		}
 		}while(choice!=5);
-		
-//		int a[]= {7,78,67,34,90,789,999,1064,64,5000};
-//		//swap(a,0,5);
-//		//System.out.println(Arrays.toString(a));
-//		
-//		System.out.println("Reverse Array :");
-//		//reverse(a);
-//		System.out.println(Arrays.toString(a));
-//		
-//		int res=max(a);
-//		System.out.println("Maximum number :"+res);
-//		
-		
-		
+				
 	}
 
 }
